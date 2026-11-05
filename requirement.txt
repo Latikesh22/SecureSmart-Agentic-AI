@@ -1,0 +1,9 @@
+langgraph
+pydantic
+langchain
+langchain-core
+langchain-community
+slither-analyzer
+solc-select
+groq
+python-dotenv

@@ -1,0 +1,10 @@
+.env
+env/
+venv/
+
+graphPractice.py
+
+temp_contract.sol
+slither_report.json
+
+*.log

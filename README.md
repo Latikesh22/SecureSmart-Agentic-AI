@@ -70,8 +70,7 @@ SecureSmart-Agentic-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Latikesh22/SecureSmart-Agentic-AI.git
 ```
 
 ### 2. Create a virtual environment
